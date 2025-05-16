@@ -13,7 +13,7 @@ This project provides utilities for creating interactive visualizations using Pl
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/plotly-interactive.git
+   git clone https://github.com/deboblr2020/plotly-interactive.git
    cd plotly-interactive
    ```
 
